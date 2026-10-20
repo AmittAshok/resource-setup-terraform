@@ -6,6 +6,8 @@
 *.tfstate
 *.tfstate.*
 *.tfstate.backup
+*.terraform.tfstate.backup
+*.terraform-state-backup.json
 
 # Terraform plans
 *.tfplan
